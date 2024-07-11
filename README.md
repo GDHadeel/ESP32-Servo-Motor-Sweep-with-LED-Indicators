@@ -1,6 +1,6 @@
 # ESP32-Servo-Motor-Sweep-with-LED-Indicators
 
-# ESP32 Servo Motor Sweep Project
+# Task 3: ESP32 Electronic Circuit with Sensor Integration
 
 ## Description
 
@@ -8,7 +8,7 @@ This project demonstrates a servo motor sweep using an ESP32 microcontroller. Th
 
 ## Demo
 
-[![Watch the video](screenshot.png)](Screen.Recording.1446-01-05.at.2.07.19.AM.mov)
+https://github.com/GDHadeel/ESP32-Servo-Motor-Sweep-with-LED-Indicators/assets/126657301/39d3d926-c6e3-49d1-82c4-fcb81efac467
 
 ## Components Used
 
