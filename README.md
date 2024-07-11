@@ -22,8 +22,7 @@ https://github.com/GDHadeel/ESP32-Servo-Motor-Sweep-with-LED-Indicators/assets/1
    - Connect the servo motor's signal pin to GPIO 18 of the ESP32.
    - Connect the yellow LED's anode (positive pin) to GPIO 14 and the anode (positive leg) to a cathode connected to ground.
    - Connect the blue LED's Anode (positive pin) to GPIO 25 and the cathode connected to ground.
-   - Ensure all grounds are common.
-   - Power the ESP32 and servo motor appropriately.
+   - Ensure the ESP32 and servo motor are powered correctly for optimal performance.
 
 ## Acknowledgements
 
