@@ -1,6 +1,6 @@
 # ESP32-Servo-Motor-Sweep-with-LED-Indicators
 
-# Task 3: ESP32 Electronic Circuit with Sensor Integration
+# Task 3: Design and program any electronic circuit that contains an ESP along with any sensor or electronic piece
 
 ## Description
 
